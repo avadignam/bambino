@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bambino.iml" filepath="$PROJECT_DIR$/.idea/modules/bambino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bambino.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bambino.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/853840449/bambino.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/853840449/bambino.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1265956046/bambino.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1265956046/bambino.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1759383991/bambino.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1759383991/bambino.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-312812913/bambino.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-312812913/bambino.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-677334420/bambino.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-677334420/bambino.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1880881720/bambino.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1880881720/bambino.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
